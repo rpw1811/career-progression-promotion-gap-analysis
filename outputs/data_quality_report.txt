@@ -1,0 +1,25 @@
+CAREER PROGRESSION DATA QUALITY REPORT
+=============================================
+Input rows: 1470
+Input columns: 31
+Missing cells before conversion: 0
+Duplicate rows before cleaning: 0
+Missing cells after numeric conversion: 0
+
+BUSINESS RULE CHECKS
+invalid_age: 0
+invalid_attrition: 0
+invalid_joblevel: 0
+negative_company_tenure: 0
+role_tenure_gt_company: 0
+promotion_gap_gt_company: 0
+manager_tenure_gt_company: 0
+role_tenure_gt_total_worke: 0
+negative_traning: 0
+
+Output rows: 1470
+Output columns: 31
+Cleaned file: D:\internship\Project\Career Progression and Promotion Gap Analysis for Retention Optimization at Palo Alto Networks\outputs\cleanned_hr_data.csv
+
+Review all flagged issues before modelling.
+No records were automatically removed.
